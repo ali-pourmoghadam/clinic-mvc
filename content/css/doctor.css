@@ -1,0 +1,38 @@
+.doctor-card
+{
+    border-radius: 20px ;
+    border:1px solid rgb(238, 238, 238);
+    padding:5px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.doctor-card img
+{
+    width:60px;
+    height:60px;
+    border-radius: 50% ;
+}
+.doctor-card p
+{
+    font-size: 13px !important;
+}
+
+.doctor-card div ul{
+ 
+        display: block;
+        margin-left: 50px;
+}
+.doctor-card div ul li 
+{
+    margin: 5px;
+    font-size: 12px !important;
+    text-align: center;
+    float: left;
+
+}
+
+.filter{
+    height: 50px;
+}
